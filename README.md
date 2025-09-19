@@ -8,7 +8,6 @@ The aim is to organize problems by topic and track my learning journey.
 ## 📂 Repository Structure
 
 - **BST_BT** → Binary Search Trees & Binary Trees
-- **CodeForcesImpt** → Important problems from CodeForces
 - **Graphs** → Graph algorithms (DFS, BFS, Dijkstra, etc.)
 - **GreedyAlgorithms** → Greedy approach problems
 - **Hash** → Hashing related problems
