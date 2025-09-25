@@ -1,4 +1,4 @@
-# 🚀 DSA & Competitive Programming Repository
+# 🚀 Nilay's DSA Repo
 
 This repository contains my practice codes and solutions related to **Data Structures, Algorithms, and Competitive Programming**.  
 The aim is to organize problems by topic and track my learning journey.
